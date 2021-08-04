@@ -1,4 +1,5 @@
 // Soldier
+valentin
 class Soldier {}
 
 // Viking
